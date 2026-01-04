@@ -4,4 +4,3 @@ This repository contains Jupyter notebooks with Python code used in the master�
 
 The project focuses on building and comparing multiple machine learning models trained on socio-demographic data as well as variables related to trust in public institutions, with the aim of predicting whether an individual is more supportive of or opposed to immigration.
 
-Three notebooks — Main Code (preprocessing, Logistic Regression, XGBoost, LightGBM), Random Forest & CatBoost training, and Per country analysis — need to be downloaded to be opened locally. Alternatively, they can be viewed directly on GitHub via the master-thesis-visible-notebook directory.
